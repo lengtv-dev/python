@@ -1,107 +1,13 @@
 {
-  "name": "ดู dookeela4.live update @05/03/2026",
-  "author": "Update@05/03/2026",
-  "info": "dookeela4.live Update@05/03/2026",
+  "name": "ดู dookeela4.live update @06/03/2026",
+  "author": "Update@06/03/2026",
+  "info": "dookeela4.live Update@06/03/2026",
   "image": "https://dookeela4.live/images/logo-bar.png",
   "groups": [
-    {
-      "name": "วันที่ 05/03/69",
-      "image": "https://dookeela4.live/images/logo-bar.png",
-      "stations": [
-        {
-          "name": "10:30 Vanuatu W vs Fiji W",
-          "info": "World Cup - Women - Qualification Europe",
-          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/880.png",
-          "url": "https://dookeela4.live/football/match/563856",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "16:00 Iran W vs ออสเตรีย (ญ)",
-          "info": "Asian Cup Women",
-          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/897.png",
-          "url": "https://dookeela4.live/football/match/563859",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "18:00 แพร่ ยูไนเต็ด vs นครศรีฯ ยูไนเต็ด",
-          "info": "Thai League 2",
-          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/297.png",
-          "url": "https://dookeela4.live/football/match/563873",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "19:15 แบงค็อก ยูไนเต็ด vs แทมปิเนส โรเวอร์ส",
-          "info": "AFC Cup",
-          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/18.png",
-          "url": "https://dookeela4.live/football/match/563881",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "20:30 Persijap vs Persis Solo",
-          "info": "Liga 1",
-          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/274.png",
-          "url": "https://dookeela4.live/football/match/563895",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "20:30 เปอร์ซิค เคดีรี่ vs PSBS Biak Numfor",
-          "info": "Liga 1",
-          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/274.png",
-          "url": "https://dookeela4.live/football/match/563896",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        }
-      ]
-    },
     {
       "name": "วันที่ 06/03/69",
       "image": "https://dookeela4.live/images/logo-bar.png",
       "stations": [
-        {
-          "name": "02:00 Al Kholood vs Al-Qadisiyah FC",
-          "info": "Pro League",
-          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/307.png",
-          "url": "https://dookeela4.live/football/match/563943",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:30 บาเซิ่ล vs กราสฮ็อปเปอร์",
-          "info": "Super League",
-          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/207.png",
-          "url": "https://dookeela4.live/football/match/563966",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "02:30 FC Thun vs เซนต์ กัลเลน",
-          "info": "Super League",
-          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/207.png",
-          "url": "https://dookeela4.live/football/match/563967",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "03:00 สเปอร์ส vs คริสตัล พาเลซ",
-          "info": "Premier League",
-          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/39.png",
-          "url": "https://dookeela4.live/football/match/563968",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
-        {
-          "name": "03:10 ลียง vs ล็องส์",
-          "info": "Coupe de France",
-          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/66.png",
-          "url": "https://dookeela4.live/football/match/563973",
-          "referer": "https://dookeela4.live/",
-          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
-        },
         {
           "name": "15:00 Uzbekistan W vs China W",
           "info": "Asian Cup Women",
@@ -447,7 +353,7 @@
         {
           "name": "18:00 ลิเวอร์พูล U18 vs แมนเชสเตอร์ ซิตี้ U18",
           "info": "U18 Premier League - North",
-          "image": "https://media.api-sports.io/football/leagues/695.png",
+          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/695.png",
           "url": "https://dookeela4.live/football/match/564565",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
@@ -495,7 +401,7 @@
         {
           "name": "19:00 แมนเชสเตอร์ ยูไนเต็ด U18 vs Nottingham Forest U18",
           "info": "U18 Premier League - North",
-          "image": "https://media.api-sports.io/football/leagues/695.png",
+          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/695.png",
           "url": "https://dookeela4.live/football/match/564644",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
@@ -815,6 +721,14 @@
           "info": "Serie B",
           "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/136.png",
           "url": "https://dookeela4.live/football/match/565899",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "02:00 Al Kholood vs Al-Qadisiyah FC",
+          "info": "Pro League",
+          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/307.png",
+          "url": "https://dookeela4.live/football/match/563943",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
@@ -1335,6 +1249,14 @@
           "info": "Eerste Divisie",
           "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/89.png",
           "url": "https://dookeela4.live/football/match/566568",
+          "referer": "https://dookeela4.live/",
+          "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
+        },
+        {
+          "name": "20:30 พอร์ท เวล vs ซันเดอร์แลนด์",
+          "info": "FA Cup",
+          "image": "https://images.dookeela4.live/1ea51f4905fd47abb43f7ba22c817198:dkl-images-storage/leagues/45.png",
+          "url": "https://dookeela4.live/football/match/566609",
           "referer": "https://dookeela4.live/",
           "userAgent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
         },
