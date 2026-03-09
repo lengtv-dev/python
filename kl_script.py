@@ -14,7 +14,7 @@ import os
 # ================= CONFIG (ปรับปรุงสำหรับ GitHub) =================
 URL = "https://dookeela4.live/"
 SAVE_DIR = "output"
-OUTPUT_FILE = os.path.join(SAVE_DIR, "kl.txt")
+OUTPUT_FILE = os.path.join(SAVE_DIR, "https://dl.dropbox.com/scl/fi/f1rqbn4vo34w1ecygowms/NEWPLAYIDTV.w3u?rlkey=4gl9dwi4b1oai0rbe5jxckeii&st=7u7f7yzg&dl=0")
 
 REFERER = "https://dookeela4.live/"
 USER_AGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
@@ -185,3 +185,4 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     json.dump(final_json, f, ensure_ascii=False, indent=2)
 
 print(f"สร้างไฟล์เรียบร้อย → {OUTPUT_FILE}")
+
