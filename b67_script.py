@@ -18,7 +18,7 @@ URL = "https://ball67.com/"
 SAVE_DIR = "output"
 OUTPUT_FILE = os.path.join(SAVE_DIR, "b67m.txt")
 
-SITE_LOGO = "https://img2.pic.in.th/sitelogo.md.png"
+SITE_LOGO = "https://raw.githubusercontent.com/lengtv-dev/python/refs/heads/main/playid.png"
 REFERER = "https://ball67.com/"
 UA = "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0"
 
@@ -113,4 +113,5 @@ with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
 print(f"บันทึกไฟล์เรียบร้อย: {OUTPUT_FILE}")
+
 print(f"จำนวนคู่ที่ดึงได้: {match_count} คู่")
