@@ -1,7 +1,7 @@
 export default {
  async fetch(request) {
 
-  const url = "https://raw.githubusercontent.com/USER/REPO/main/playlist.json"
+  const url = "https://raw.githubusercontent.com//REPO/main/playlist.json"
 
   const res = await fetch(url)
 
