@@ -1,0 +1,13 @@
+website (dooball)
+      │
+python scraper
+      │
+generate playlist.json
+      │
+GitHub Actions update every 5 min
+      │
+Cloudflare Worker (API)
+      │
+https://yourdomain/playlist
+      │
+Wiseplay / IPTV player
