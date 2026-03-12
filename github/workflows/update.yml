@@ -1,0 +1,29 @@
+name: update playlist
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Setup Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: "3.10"
+
+      - run: pip install requests beautifulsoup4
+
+      - run: python scraper.py
+
+      - name: commit
+        run: |
+          git config --global user.name "bot"
+          git config --global user.email "bot@github.com"
+          git add playlist.json
+          git commit -m "update playlist" || echo "no change"
+          git push
